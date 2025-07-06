@@ -6,7 +6,8 @@ Here's my implementation of it in verilog HDL
 (Intel 4004 is a Harvard Architecture and not a Von-Neumann Architecture)
 
 Good Read 1 : [LINK](https://medium.com/@adventofcomputing/how-capable-was-the-intel-4004-c05c97501715)
-Good Read 2 : [LINK]([https://medium.com/@adventofcomputing/how-capable-was-the-intel-4004-c05c97501715](https://medium.com/otdsyb/intel-releases-the-4004-54c9e589a83a)
+
+Good Read 2 : [LINK](https://medium.com/otdsyb/intel-releases-the-4004-54c9e589a83a)
 
 Datasheet : https://datasheets.chipdb.org/Intel/MCS-4/datashts/intel-4004.pdf
 
