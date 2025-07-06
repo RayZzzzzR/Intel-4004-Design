@@ -8,5 +8,5 @@ Good Read : https://medium.com/@iamRadhaKulkarni/the-story-of-the-first-micropro
 Datasheet : https://datasheets.chipdb.org/Intel/MCS-4/datashts/intel-4004.pdf
 
 ARCHITECTURE : 
-![Alt text](![Uploading image.png…]()
-)
+
+![Alt text](4004.png)
